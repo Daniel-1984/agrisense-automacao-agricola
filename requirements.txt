@@ -1,0 +1,13 @@
+# Core Framework
+streamlit==1.31.1
+
+# Data Processing
+pandas==2.2.0
+numpy==1.26.4
+
+# Visualization
+plotly==5.18.0
+matplotlib==3.8.2
+
+# Real-time Updates
+streamlit-autorefresh==1.0.1
