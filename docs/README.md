@@ -1,3 +1,9 @@
+<img width="1655" height="893" alt="image" src="https://github.com/user-attachments/assets/722b75fb-2d84-40a1-8f55-1756df162a11" />
+<img width="1703" height="906" alt="image" src="https://github.com/user-attachments/assets/4d64145c-9951-48ba-9101-5414eb0108ee" />
+<img width="1682" height="835" alt="image" src="https://github.com/user-attachments/assets/5ebe739c-4aa4-4664-a1ec-6b7068272359" />
+
+
+
 # 🌾 AgriSense - Sistema de Automação Agrícola
 
 ![Python](https://img.shields.io/badge/Python-3.11+-blue.svg)
