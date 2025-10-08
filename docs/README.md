@@ -26,7 +26,7 @@ AgriSense é uma plataforma de demonstração que simula um sistema embarcado co
 
 ## 🎯 Objetivos do Projeto
 
-Este projeto demonstra competências essenciais para a vaga:
+Este projeto demonstra competências:
 
 ✅ Desenvolvimento de sistemas embarcados  
 ✅ Programação em Python para sistemas de controle  
